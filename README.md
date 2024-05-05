@@ -2,6 +2,9 @@
 
 This project is an online store web application that allows users to browse products, add them to their cart, make orders, and manage their profiles. The application supports two user roles: Admin and User, each with specific functionalities.
 
+https://github.com/marwan-mohamed12/ecommerce/assets/40841193/4e8378f4-50f4-4b04-a842-1989e30b9d23
+
+
 ## Features
 
 *   **Product browsing:** Users can view products categorized by type, brand, etc.
